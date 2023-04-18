@@ -1,4 +1,4 @@
-# varac-home-assistant
+# home-assistant
 
 Custom home-assistant docker image with following addons:
 
